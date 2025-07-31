@@ -78,7 +78,7 @@ input[type="text"]:focus {
   border-color: #02d869;
   outline: none;
 }
-.btn{
+.btn-sign{
   padding: 12px 20px;
   background-color: #02d869;
   color: #2c2d30;
