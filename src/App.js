@@ -87,7 +87,8 @@ function App() {
 
   if (!user)
     return (
-      <div className="auth-box">
+      <div className="auth-box" style={{AlignItems: 'center'}}>
+         <h1 className="title">🎓 GPA / CGPA Calculator</h1><br></br>
         <button className="btn" onClick={() => signInWithPopup(auth, provider)}>
           Sign in with Google
         </button>
