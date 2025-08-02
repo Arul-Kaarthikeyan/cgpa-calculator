@@ -18,7 +18,7 @@ This is a web-based CGPA and GPA calculator built using React and Firebase.
 
 ## Project Demo : [GPA / CGPA calculator](https://mynotes-c42c2.web.app/)  
 
-## Tutorial : [Firebase React Course For Beginners](https://www.youtube.com/watch?v=2hR-uWjBAgw)
+### Tutorial : [Firebase React Course For Beginners](https://www.youtube.com/watch?v=2hR-uWjBAgw)
 
 
 
